@@ -1,7 +1,8 @@
-orange
+magenta
 green
-pink
+brown
 blue
-violet
-white
+sky blue
+silver
 grey
+cyan
